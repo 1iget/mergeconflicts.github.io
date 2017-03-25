@@ -16,7 +16,7 @@ However, the pace of progress is ever accelerating, while our humble flesh and b
 
 We contribute to the Singularity by helping technologists perform at the highest level.
 
-By cultivating worldwide technological mastery, we can effect more change than if we tried to take on the world's problems on our own.
+By cultivating true technological mastery, we can effect more change than if we tried to take on the world's problems on our own.
 
 # What
 
