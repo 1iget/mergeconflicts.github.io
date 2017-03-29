@@ -17,8 +17,8 @@ title: Merge Conflicts
 email: dk@mergeconflicts.com
 description: > # this means to ignore newlines until "baseurl:"
   We believe in the limitless power of technology to unlock human potential.
-  We contribute to the Singularity by helping technologists perform at the highest level.
-  Specifically, we provide code review services for iOS development teams around the world. 
+  We are dedicated to helping technologists perform at the highest level.
+  Specifically, we provide code review services for Clojure development teams around the world. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MergeConflicts

@@ -14,10 +14,10 @@ However, the pace of progress is ever accelerating, while our humble flesh and b
 
 # How
 
-We contribute to the Singularity by helping technologists perform at the highest level.
+We are dedicated to ushering in the Singularity by helping technologists perform at the highest level.
 
-By cultivating true technological mastery, we can effect more change than if we tried to take on the world's problems on our own.
+By cultivating true technological mastery, we can help mankind reach toward its deepest ambitions and truest dreams.
 
 # What
 
-Specifically, we provide code review services for iOS development teams around the world. 
+Specifically, we provide code review services for Clojure development teams around the world. 
