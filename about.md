@@ -16,7 +16,7 @@ However, the pace of progress is ever accelerating, while our humble flesh and b
 
 We are dedicated to ushering in the Singularity by helping technologists perform at the highest level.
 
-By cultivating true technological mastery, we can help mankind reach toward its deepest ambitions and truest dreams.
+By cultivating true technological mastery, we can help mankind pursue its deepest ambitions and truest dreams.
 
 # What
 
