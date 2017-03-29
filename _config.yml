@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Merge Conflicts
-email: dk@mergeconflicts.com
+email: hello@mergeconflicts.com
 description: > # this means to ignore newlines until "baseurl:"
   We believe in the limitless power of technology to unlock human potential.
   We are dedicated to helping technologists perform at the highest level.
